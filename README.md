@@ -1,4 +1,4 @@
-# Ilk Bot Framework Orneği
+# İlk Bot Framework Örneği
 Bu örnek ile Visual Studio 2015 kullanarak Microsoft Bot Framework kullanılarak bir bot uygulamasının geliştirilmesi için gerekli gereksinimleri ve temelleri öğreneceksiniz.
 
 ## Prerequisites to build a new Bot using Bot Framework
@@ -8,7 +8,8 @@ This is a step-by-step guide to writing an Bot in C# using the Bot Framework Con
 * Visual Studio 2015 (latest update) - you can download the community version here for free: www.visualstudio.com
 * Important: Please update all VS extensions to their latest versions Tools->Extensions and Updates->Updates
 
-2. Download and install the Bot Application template ◦Download the file from the direct download link here:
+2. Download and install the Bot Application template 
+3. * Download the file from the direct download link [here](http://aka.ms/bf-bc-vstemplate) :
 * Save the zip file to your Visual Studio 2015 templates directory which is traditionally in “%USERPROFILE%\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C
 
 3. Open Visual Studio
